@@ -308,11 +308,11 @@ void recomendaciones(struct Zona zonas[CANTIDAD_ZONAS]) {
             printf("\nPromover el teletrabajo y la reducción del uso del vehículo privado en %s", zonas[i].nombre);
             hayRecomendaciones = 1;
         }
-        if (zonas[i].contaminacion_actual[0] > LIMITE_NO2){
+        if (zonas[i].contaminacion_actual[1] > LIMITE_NO2){
             printf("\nReducción del tráfico vehicular en %s", zonas[i].nombre);
             hayRecomendaciones = 1;
         }
-        if (zonas[i].contaminacion_actual[1] > LIMITE_SO2) {
+        if (zonas[i].contaminacion_actual[2] > LIMITE_SO2) {
             printf("\nCerrar industrias en %s", zonas[i].nombre);
             hayRecomendaciones = 1;
         }
