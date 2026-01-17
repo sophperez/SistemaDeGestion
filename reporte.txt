@@ -1,0 +1,5 @@
+Datos actuales -> Carcelen 890.00 41.00 24.00 19.00 / Predicciones -> 758.14 23.41 19.25 17.20
+Datos actuales -> Chillogallo 900.00 38.00 26.00 10.00 / Predicciones -> 778.24 27.49 23.29 22.91
+Datos actuales -> Quitumbe 750.00 45.00 20.00 16.00 / Predicciones -> 818.74 29.49 27.29 25.71
+Datos actuales -> Calderon 867.00 29.00 27.00 17.00 / Predicciones -> 698.94 19.59 15.37 14.60
+Datos actuales -> Cumbaya 899.00 45.00 30.00 9.00 / Predicciones -> 499.23 11.90 9.74 8.82
